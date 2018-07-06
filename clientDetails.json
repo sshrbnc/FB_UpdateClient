@@ -1,0 +1,13 @@
+{
+"client": { 
+			"id": "19953",
+            "email": "ohsehun@gmail.com",
+            "fname": "Yehet",
+            "lname": "Ohorat",
+            "mob_phone" : "09188746271",
+            "p_street": "Hello St.",
+            "p_city": "Iloilo",
+            "p_code": "5023",
+            "p_country": "Philippines"
+		} 
+}
